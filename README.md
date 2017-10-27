@@ -23,3 +23,5 @@ Go ahead and add a one line intro about you and add your favorite emoji which yo
 
 - Hi, my name is Rebecca and my favorite emoji is 💯
 
+- Hi, my name is Mario, I was born in Spain and my favourite emoji is 🌚 because, you know, its cute.
+
